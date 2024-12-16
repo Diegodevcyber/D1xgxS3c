@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-  <img src="https://c.tenor.com/1aOQXOzdkH4AAAAC/anonymous-hacker.gif" alt="anonymous-hacker" width="300" height="200"/>
+  <img src="[https://c.tenor.com/1aOQXOzdkH4AAAAC/anonymous-hacker.gif](https://gifs.alphacoders.com/gifs/view/120245)" alt="anonymous-hacker" width="300" height="200"/>
 </p>

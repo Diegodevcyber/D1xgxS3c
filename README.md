@@ -1,6 +1,6 @@
 <h1>Olá 👋, Eu sou Diego - Pentester & Hacker Ético 🕵️‍♂️</h1>
 <p>
-  <img src="https://giffiles.alphacoders.com/120/120245.gif" alt="anonymous-hacker" width="300" height="200"/>
+  <img src="https://giffiles.alphacoders.com/120/120245.gif" alt="anonymous-hacker"/>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d1xgxs3c&label=Profile%20views&color=0e75b6&style=flat" alt="d1xgxs3c" /> </p>
 

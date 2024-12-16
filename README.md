@@ -7,7 +7,7 @@
 - 🕵️‍♂️ **Pentester em constante aprendizado** com foco em segurança de sistemas, exploração de vulnerabilidades e automação de testes de penetração.
 - 🎓 **Certificações em andamento**: **CEH (Certified Ethical Hacker)** e **OSCP (Offensive Security Certified Professional)**.
 - 💻 **Especialista em Linux e Python** para automação e exploração de falhas de segurança.
-- 📫 **Contate-me**: [seu.email@gmail.com](mailto:diego.cyberdev@gmail.com)
+- 📫 **Contate-me**: [diego.cyberdev](mailto:diego.cyberdev@gmail.com)
 
 <h3 align="left">🔗 Conecte-se comigo:</h3>
 <p align="left">

@@ -8,8 +8,7 @@
 
 <h3 align="left">🔗 Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/seu-usuario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-usuario" height="30" width="40" /></a>
-<a href="https://twitter.com/seu_usuario" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="seu-usuario" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/DiegoCybersec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seu-usuario" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">🛠️ Ferramentas & Tecnologias:</h3>

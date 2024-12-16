@@ -38,10 +38,6 @@
 <p><a href="https://www.buymeacoffee.com/seu_usuario"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seu_usuario" /></a></p><br><br>
 
 <h3 align="left">🎭 Visual do Hacker - Anonymous:</h3>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Anonymous_logo.svg" alt="anonymous" width="150" height="150"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Anonymous_mask.svg/800px-Anonymous_mask.svg.png" alt="mask" width="150" height="150"/>
-</p>
 
 <p align="center">
   <img src="https://giffiles.alphacoders.com/120/120245.gif" alt="anonymous-hacker" width="300" height="200"/>

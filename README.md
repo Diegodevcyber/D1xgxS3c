@@ -1,7 +1,7 @@
 <h1>Olá 👋, Eu sou Diego - Pentester & Hacker Ético 🕵️‍♂️</h1>
 <p>
-  <img src="https://giffiles.alphacoders.com/120/120245.gif" alt="anonymous-hacker height="200px"/>
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
+  <img src="https://giffiles.alphacoders.com/120/120245.gif" alt="anonymous-hacker" height="200px" style="display: inline-block; margin-right: 20px"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="second-image" style="display: inline-block"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d1xgxs3c&label=Profile%20views&color=0e75b6&style=flat" alt="d1xgxs3c" /> </p>
@@ -40,5 +40,3 @@
 - **Python Developer (Certificação)** - Completo
 
 <p><a href="https://www.buymeacoffee.com/seu_usuario"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seu_usuario" /></a></p><br><br>
-
-

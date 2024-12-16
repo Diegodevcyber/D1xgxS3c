@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Diego CyberSec</h1>
+<h1>Olá 👋, Eu sou Diego CyberSec</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d1xgxs3c&label=Profile%20views&color=0e75b6&style=flat" alt="d1xgxs3c" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://d1xgx-portifolio.vercel.app/](https://d1xgx-portifolio.vercel.app/)

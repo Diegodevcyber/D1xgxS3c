@@ -37,8 +37,6 @@
 <h3 align="left">💬 Suporte:</h3>
 <p><a href="https://www.buymeacoffee.com/seu_usuario"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seu_usuario" /></a></p><br><br>
 
-<h3 align="left">🎭 Visual do Hacker - Anonymous:</h3>
-
-<p align="center">
+<p>
   <img src="https://giffiles.alphacoders.com/120/120245.gif" alt="anonymous-hacker" width="300" height="200"/>
 </p>

@@ -1,6 +1,6 @@
 <h1>Olá 👋, Eu sou Diego - Pentester & Hacker Ético 🕵️‍♂️</h1>
 <p>
-  <img src="https://giffiles.alphacoders.com/120/120245.gif" alt="anonymous-hacker" height="200px" style="display: inline-block; margin-right: 20px; border-radius: 50%"/>
+  <img src="https://giffiles.alphacoders.com/120/120245.gif" border-radius:50%"/>
   <img src="https://steamuserimages-a.akamaihd.net/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="second-image" style="display: inline-block"/>
 </p>
 

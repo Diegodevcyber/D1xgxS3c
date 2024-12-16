@@ -1,10 +1,10 @@
-<h1>Olá 👋, Eu sou [Seu Nome] - Pentester & Hacker Ético</h1>
+<h1>Olá 👋, Eu sou [Seu Nome] - Pentester & Hacker Ético 🕵️‍♂️</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d1xgxs3c&label=Profile%20views&color=0e75b6&style=flat" alt="d1xgxs3c" /> </p>
 
 - 🕵️‍♂️ **Pentester em constante aprendizado** com foco em segurança de sistemas, exploração de vulnerabilidades e automação de testes de penetração.
-- 🎓 Atualmente estudando para obter as certificações **CEH** (Certified Ethical Hacker) e **OSCP** (Offensive Security Certified Professional).
+- 🎓 **Certificações em andamento**: **CEH (Certified Ethical Hacker)** e **OSCP (Offensive Security Certified Professional)**.
 - 💻 **Especialista em Linux e Python** para automação e exploração de falhas de segurança.
-- 📫 Como me contatar: **[seu.email@gmail.com](mailto:seu.email@gmail.com)**
+- 📫 **Contate-me**: [seu.email@gmail.com](mailto:seu.email@gmail.com)
 
 <h3 align="left">🔗 Conecte-se comigo:</h3>
 <p align="left">
@@ -49,3 +49,13 @@
 
 <h3 align="left">💬 Suporte:</h3>
 <p><a href="https://www.buymeacoffee.com/seu_usuario"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="seu_usuario" /></a></p><br><br>
+
+<h3 align="left">🎭 Visual do Hacker - Anonymous:</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Anonymous_logo.svg" alt="anonymous" width="150" height="150"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Anonymous_mask.svg/800px-Anonymous_mask.svg.png" alt="mask" width="150" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://c.tenor.com/1aOQXOzdkH4AAAAC/anonymous-hacker.gif" alt="anonymous-hacker" width="300" height="200"/>
+</p>

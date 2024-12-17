@@ -31,3 +31,75 @@
 <p align="center">
 <a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
 </p>
+# 💻 **[Seu Nome] - Full Stack Developer & Cybersecurity Enthusiast** 🔐
+
+![Hacker](https://media.giphy.com/media/3o7TKsQd2z4JzQAvG4/giphy.gif)
+
+## 👨‍💻 Sobre Mim
+
+Olá! Eu sou um **Desenvolvedor Full Stack** e **Analista de Sistemas** com experiência sólida em **desenvolvimento de software** e **cibersegurança**. Atualmente, estou me aprofundando em **Cybersecurity** através da minha pós-graduação e estudo de certificações como **OSCP** e **CEH**.
+
+Sou um entusiasta do **Pentesting** e adoro explorar vulnerabilidades em sistemas, buscando sempre uma forma de proteger e reforçar a segurança das infraestruturas digitais.
+
+- **💡 Linguagens e Tecnologias que uso:**
+  - **Backend:** Python, Node.js, Java, PHP
+  - **Frontend:** React, Vue.js, HTML, CSS, JavaScript
+  - **Bancos de Dados:** MySQL, MongoDB, PostgreSQL
+  - **Ferramentas de PenTest:** Kali Linux, Burp Suite, Nmap, Metasploit, Wireshark
+  - **Outras:** Docker, Kubernetes, Git, Jenkins
+  
+- **💻 Sistemas Operacionais:** Linux (usuário avançado), Windows, MacOS
+
+- **🛠️ Ferramentas de Segurança:** 
+  - **Pentesting:** Metasploit, Burp Suite, Nessus
+  - **Exploração de Vulnerabilidades:** Kali Linux, Hydra
+  - **Análise de Rede e Monitoramento:** Wireshark, Nmap
+  
+- **📚 Estudando:**
+  - **Certificações:** OSCP, CEH
+  - **Cursos e Conteúdo:** Exploração de vulnerabilidades, análise de tráfego de rede, engenharia reversa
+
+## 📌 Projetos Recentes
+
+- **Pentest Lab** 🔓  
+  Um laboratório para praticar **Pentesting**, com diversas máquinas virtuais configuradas para testar ataques e defesa de redes e sistemas.
+  
+- **Script de Automação de Exploração** 🤖  
+  Automação de alguns testes de exploração utilizando Python para análise de segurança em aplicações web.
+  
+- **Análise de Tráfego de Rede** 🌐  
+  Ferramenta para capturar e analisar pacotes de rede, com foco na detecção de tráfego malicioso.
+
+## 🔥 O que me motiva
+
+A cibersegurança para mim é mais do que apenas proteger sistemas. É uma paixão por entender como os atacantes pensam, aprender suas táticas e, mais importante, fortalecer os sistemas contra essas ameaças. 🚀
+
+- **🏴‍☠️ Hack the system!**
+- **🔍 Identificar falhas de segurança é um desafio constante.**
+- **🎯 Resolver problemas, encontrar soluções e aplicar os conhecimentos adquiridos é o que me move.**
+
+## 🧑‍💻 **Certificações e Formação**
+
+- **🎓 Pós-graduação em Cybersecurity**
+- **🔐 Certificações em andamento:** OSCP, CEH
+- **📚 Formação em Análise e Desenvolvimento de Sistemas**
+
+## 📣 **Vamos conversar?**
+
+Estou sempre aberto para colaborações, troca de conhecimentos e novos desafios na área de **segurança cibernética** e **desenvolvimento de software**.
+
+**⚡️ Redes Sociais & Contato:**
+
+- GitHub: [SeuGitHub](https://github.com/seu-github)
+- LinkedIn: [SeuLinkedIn](https://linkedin.com/in/seu-linkedin)
+- Twitter: [@SeuTwitter](https://twitter.com/seu-twitter)
+- E-mail: seuemail@example.com
+
+![Hacker](https://media.giphy.com/media/xT0Gqp0A9pJ2A6nOnK/giphy.gif)
+
+---
+
+## 🖤 **Hacking isn't a crime... it's a skill.**
+
+![Hacker](https://media.giphy.com/media/l4FGyhg5zXleqaHDW/giphy.gif)
+

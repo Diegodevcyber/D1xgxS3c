@@ -1,5 +1,4 @@
-## "Hackear não é apenas invadir sistemas,
-é explorar possibilidades e transformar o impossível em realidade." 💻🚀  
+## "Hackear não é apenas invadir sistemas,é explorar possibilidades e transformar o impossível em realidade." 💻🚀  
 <p align="center">
   <img src="https://github.com/D1xgxS3c/D1xgxS3c/blob/main/D1xgxS3c.gif?raw=true" alt="Bt" style="border-radius: 15px;">
 </p>  

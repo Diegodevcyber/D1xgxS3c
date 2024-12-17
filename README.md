@@ -42,7 +42,7 @@
 
 ### Principais Repositórios 🛠️  
 <p align="center">
-<a href="https://github.com/D1xgxS3c/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=D1xgxS3c&repo=grabcam&theme=radical">
+<a href="https://github.com/D1xgxS3c/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/repo=grabcam&theme=radical">
 <p "grabcam ferramenta hacker camera">
 </a>
 

@@ -39,20 +39,7 @@
 </p>  
 
 ---
-
-### Principais Repositórios 🛠️  
-<p align="center">
-<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
-<p "grabcam ferramenta hacker camera">
-</a>
-
-
----
-
-### Linguagens Mais Usadas 📊  
-<p align="center">
-<a href="https://github.com/D1xgxS3c"><img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=radical"></a>
-</p>  
+ 
 
 <p>
 <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Compre-me um café" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>

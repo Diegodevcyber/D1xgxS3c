@@ -22,21 +22,6 @@
 
 ---
 
-### Sobre Mim 👨‍💻  
-- 📚 **Formação:**  
-  - Graduado em **Análise e Desenvolvimento de Sistemas**.  
-  - Certificado como **Desenvolvedor Full Stack**.  
-  - Atualmente cursando **Pós-Graduação em Cybersecurity e Cybercrime**.  
-
-- 💻 **Interesses e Dedicação:**  
-  - Focado na área de **Segurança Cibernética**, especialmente no lado **Ofensivo**.  
-  - Estudo intensivo de **OSCP** e **CEH** para avançar no universo de Pentest e Ethical Hacking.  
-  - Aspirante a **Black Hat Red Teamer** e expert em **Pentest** com forte uso do **Kali Linux**.  
-
-- 🌟 Meu objetivo é me tornar um verdadeiro hacker ofensivo, sempre aprendendo e evoluindo!  
-
----
-
 ### Estatísticas 🚀  
 <p align="center">
 <a href="https://github.com/d1xgxs3c"><img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api?username=D1xgxS3c&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>

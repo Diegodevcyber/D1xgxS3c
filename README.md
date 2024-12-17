@@ -1,8 +1,7 @@
-# 💻 **Diego Cybersec - Full Stack Developer & Cybersecurity Enthusiast** 🔐
+( __ ) ( __ )( __ )|\ /| __ )( __ ) | ( ) | _ | ( ) |( ) |( \ / )| ( ) | ( ) | | | / |( ) ( | | / | | | | | _/ / | | / | | | / | | (/| | / | (/| | (/| | _ ( | (/| | (/| | | _ | | | | | _ | | ) | _ | _ | | / \ | | | | / | / | | | | | / | / | | / \ | | | | / | \ | ||\ | | ( | | | | () | || | |_____|| ()|____)|_|
 
-![Hacker](https://media.giphy.com/media/3o7TKsQd2z4JzQAvG4/giphy.gif)
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 **Sobre Mim**
 
 Sou **Desenvolvedor Full Stack** e **Analista de Sistemas**, atualmente me aprofundando em **Cybersecurity**. Busco certificar-me com **OSCP** e **CEH** e estou sempre explorando novas vulnerabilidades e formas de proteger sistemas.
 
@@ -10,7 +9,7 @@ Sou **Desenvolvedor Full Stack** e **Analista de Sistemas**, atualmente me aprof
 - **Pentesting:** Kali Linux, Burp Suite, Nmap, Metasploit
 - **Sistemas:** Linux (avançado), Windows, MacOS
 
-## 🚀 Projetos Recentes
+## 🚀 **Projetos Recentes**
 
 - **Pentest Lab:** Ambiente virtual para testar ataques e defesas.
 - **Exploração com Python:** Scripts automatizados de pentesting.
@@ -21,13 +20,11 @@ Sou **Desenvolvedor Full Stack** e **Analista de Sistemas**, atualmente me aprof
 - **Pós-graduação em Cybersecurity**
 - **Certificações em andamento:** OSCP, CEH
 
-## 📣 Vamos Conversar?
+## 📣 **Vamos Conversar?**
 
-- GitHub: [SeuGitHub](https://github.com/seu-github)
-- LinkedIn: [SeuLinkedIn](https://linkedin.com/in/seu-linkedin)
-- E-mail: seuemail@example.com
-
-![Hacker](https://media.giphy.com/media/xT0Gqp0A9pJ2A6nOnK/giphy.gif)
+- **GitHub:** [SeuGitHub](https://github.com/seu-github)
+- **LinkedIn:** [SeuLinkedIn](https://linkedin.com/in/seu-linkedin)
+- **E-mail:** seuemail@example.com
 
 ---
 

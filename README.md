@@ -1,9 +1,9 @@
 ## "Bem-vindo ao terminal da mente. Aqui, o limite é você." 💻⚡
-<p >
+<p align="center">
   <img src="https://github.com/D1xgxS3c/D1xgxS3c/blob/main/D1xgxS3c.gif?raw=true" alt="Bt" style="border-radius: 15px;">
 </p>  
 
-<p ><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt"></p>  
 
 ---
 
@@ -23,14 +23,14 @@
 ---
 
 ### Estatísticas 🚀  
-<p >
+<p align="center">
 <a href="https://github.com/d1xgxs3c"><img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api?username=D1xgxS3c&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>  
 
 ---
 
 ### Redes Sociais 🌐  
-<p >
+<p align="center">
 <a href="https://rebrand.ly/D1xgxS3c"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/D1xgxS3c"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
 <a href="https://rebrand.ly/D1xgxS3c"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
@@ -41,7 +41,7 @@
 ---
 
 ### Principais Repositórios 🛠️  
-<p >
+<p align="center">
 <a href="https://github.com/D1xgxS3c/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical">
 <p "grabcam ferramenta hacker camera">
 </a>
@@ -54,7 +54,7 @@
 ---
 
 ### Linguagens Mais Usadas 📊  
-<p >
+<p align="center">
 <a href="https://github.com/D1xgxS3c"><img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=chartreuse-dark"></a>
 </p>  
 

@@ -76,7 +76,7 @@
 
 ### Principais Repositórios 🛠️  
 <p align="center">
-<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical">
+<a href="https://github.com/D1xgxS3c/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical">
 <p "grabcam ferramenta hacker camera">
 </a>
 

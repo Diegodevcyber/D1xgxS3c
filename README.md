@@ -42,7 +42,7 @@
 
 ### Principais Repositórios 🛠️  
 <p align="center">
-<a href="https://github.com/D1xgxS3c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=tokyonight" /></a>
+<a * **[My First Project](https://github.com/D1xgxS3c/my-first-project)** - A basic project showcasing my core programming skills. /></a>
 <p "grabcam ferramenta hacker camera">
 </a>
 

@@ -81,7 +81,12 @@
 <a href="https://github.com/noob-hackers/kalimux"><img title="Kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
 <a href="https://github.com/noob-hackers/ipdrone"><img title="IPDrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a> -->
 </p>  
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 ---
 
 ### Linguagens Mais Usadas 📊  

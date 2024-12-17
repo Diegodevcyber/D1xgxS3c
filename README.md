@@ -76,7 +76,7 @@
 
 ### Principais Repositórios 🛠️  
 <p align="center">
-<a href="https://github.com/D1xgxS3c/grabcam"><img title="Grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
+<a href="https://github.com/D1xgxS3c/grabcam"><img title="Grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=D1xgxS3c&repo=grabcam&theme=radical"></a>
 <!-- <a href="https://github.com/noob-hackers/mrphish"><img title="MrPhish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
 <a href="https://github.com/noob-hackers/kalimux"><img title="Kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
 <a href="https://github.com/noob-hackers/ipdrone"><img title="IPDrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a> -->

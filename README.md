@@ -52,6 +52,7 @@
 ### Linguagens Mais Usadas 📊  
 <p align="center">
 <a href="https://github.com/D1xgxS3c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=chartreuse-dark" /></a>
+<a href="https://github.com/D1xgxS3c/grabcam"><img title="Your Security Project 1" src="https://github-readme-stats.vercel.app/api/pin/?username=D1xgxS3c&repo=https://github.com/D1xgxS3c/grabcam&theme=radical"></a>
 </p>  
 
 <p>

@@ -51,7 +51,7 @@
 
 ### Linguagens Mais Usadas 📊  
 <p align="center">
-<a href="https://github.com/D1xgxS3c"><img src="https://github.com/D1xgxS3c/github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=chartreuse-dark" /></a>
+<a href="https://github.com/D1xgxS3c"><img src="https://github.com/D1xgxS3c/github-readme-stats/blob/master/api/top-langs.js/?username=D1xgxS3c&layout=compact&theme=chartreuse-dark" /></a>
 </p>  
 
 <p>

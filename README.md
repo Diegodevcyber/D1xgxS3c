@@ -42,7 +42,7 @@
 
 ### Principais Repositórios 🛠️  
 <p align="center">
-<a * **[My First Project](https://github.com/D1xgxS3c/my-first-project)** - A basic project showcasing my core programming skills. /></a>
+* **[My First Project](https://github.com/D1xgxS3c/my-first-project)** - A basic project showcasing my core programming skills. 
 <p "grabcam ferramenta hacker camera">
 </a>
 

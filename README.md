@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/D1xgxS3c"><img title="YouTube" src="https://img.shields.io/badge/D1xgxS3c Hackers-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 

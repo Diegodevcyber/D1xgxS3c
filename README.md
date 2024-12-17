@@ -42,7 +42,7 @@
 
 ### Principais Repositórios 🛠️  
 <p align="center">
-<a href="https://github.com/D1xgxS3c/grabcam"><img title="Grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=D1xgxS3c&repo=https://github.com/D1xgxS3c/grabcam&theme=radical"></a>
+<a href="https://github.com/noob-hackers/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
 <p "grabcam ferramenta hacker camera">
 </a>
 
@@ -51,7 +51,7 @@
 
 ### Linguagens Mais Usadas 📊  
 <p align="center">
-<a href="https://github.com/D1xgxS3c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=radical" /></a>
+<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
 </p>  
 
 <p>

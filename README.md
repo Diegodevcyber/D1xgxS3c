@@ -42,7 +42,7 @@
 
 ### Principais Repositórios 🛠️  
 <p align="center">
-* **[My First Project](https://github.com/D1xgxS3c/my-first-project)** - A basic project showcasing my core programming skills. 
+<a href="https://github.com/D1xgxS3c/your-ethical-hacking-project"><img title="Your Ethical Hacking Project" src="https://github-readme-stats.vercel.app/api/pin/?username=D1xgxS3c&repo=your-ethical-hacking-project&theme=radical"></a>
 <p "grabcam ferramenta hacker camera">
 </a>
 

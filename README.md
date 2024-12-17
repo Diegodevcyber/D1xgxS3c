@@ -1,4 +1,4 @@
-## "Bem-vindo ao terminal da mente. Aqui, o único limite é o código que você não escreve." 💻⚡  
+<p align="center" ## "Bem-vindo ao terminal da mente. Aqui, o único limite é o código que você não escreve." 💻⚡">
 <p align="center">
   <img src="https://github.com/D1xgxS3c/D1xgxS3c/blob/main/D1xgxS3c.gif?raw=true" alt="Bt" style="border-radius: 15px;">
 </p>  

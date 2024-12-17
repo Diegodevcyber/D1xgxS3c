@@ -65,21 +65,21 @@
 
 ### Redes Sociais 🌐  
 <p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/D1xgxS3c"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/D1xgxS3c"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
-<a href="https://rebrand.ly/telegramchnl"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://rebrand.ly/hckrgroups"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://rebrand.ly/insgrm"><img title="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://rebrand.ly/D1xgxS3c"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://chat.whatsapp.com/KzyTcK7ZN2C16p8sdS8pam"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/D1xgxS3c"><img title="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
 </p>  
 
 ---
 
 ### Principais Repositórios 🛠️  
 <p align="center">
-<a href="https://github.com/noob-hackers/grabcam"><img title="Grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
-<a href="https://github.com/noob-hackers/mrphish"><img title="MrPhish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
+<a href="https://github.com/D1xgxS3c/grabcam"><img title="Grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical"></a>
+<!-- <a href="https://github.com/noob-hackers/mrphish"><img title="MrPhish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
 <a href="https://github.com/noob-hackers/kalimux"><img title="Kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
-<a href="https://github.com/noob-hackers/ipdrone"><img title="IPDrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a>
+<a href="https://github.com/noob-hackers/ipdrone"><img title="IPDrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a> -->
 </p>  
 
 ---

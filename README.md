@@ -42,7 +42,7 @@
 
 ### Principais Repositórios 🛠️  
 <p align="center">
-<a href="https://github.com/seu-usuario"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=tokyonight" /></a>
+
 <p "grabcam ferramenta hacker camera">
 </a>
 
@@ -55,7 +55,7 @@
 
 ### Linguagens Mais Usadas 📊  
 <p align="center">
-<a href="https://github.com/D1xgxS3c"><img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api/top-langs/layout=compact&theme=chartreuse-dark"></a>
+<a href="https://github.com/D1xgxS3c"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=chartreuse-dark" /></a>
 </p>  
 
 <p>

@@ -3,10 +3,13 @@
   <img src="https://github.com/D1xgxS3c/D1xgxS3c/blob/main/D1xgxS3c.gif?raw=true" alt="Bt" style="border-radius: 15px;">
 </p>  
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt"></p>  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+</p>  
 
 ---
 
+<p align="center">
 ### Sobre Mim 👨‍💻  
 - 📚 **Formação:**  
   - Graduado em **Análise e Desenvolvimento de Sistemas**.  
@@ -19,18 +22,21 @@
   - Aspirante a **Black Hat Red Teamer** e expert em **Pentest** com forte uso do **Kali Linux**.  
 
 - 🌟 Meu objetivo é me tornar um verdadeiro hacker ofensivo, sempre aprendendo e evoluindo!  
+</p>
 
 ---
 
+<p align="center">
 ### Estatísticas 🚀  
-<p align="center">
-<a href="https://github.com/d1xgxs3c"><img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api?username=D1xgxS3c&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>  
+<a href="https://github.com/d1xgxs3c">
+  <img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api?username=D1xgxS3c&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200">
+</a>
+</p>
 
 ---
 
-### Redes Sociais 🌐  
 <p align="center">
+### Redes Sociais 🌐  
 <a href="https://rebrand.ly/D1xgxS3c"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/D1xgxS3c"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
 <a href="https://rebrand.ly/D1xgxS3c"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
@@ -40,26 +46,31 @@
 
 ---
 
-### Principais Repositórios 🛠️  
 <p align="center">
-<a href="https://github.com/D1xgxS3c/grabcam"><img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical">
-<p "grabcam ferramenta hacker camera">
+### Principais Repositórios 🛠️  
+<a href="https://github.com/D1xgxS3c/grabcam">
+  <img title="grabcam" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=grabcam&theme=radical">
 </a>
-
-<!-- <a href="https://github.com/noob-hackers/mrphish"><img title="MrPhish" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=mrphish&theme=highcontrast"></a>
-<a href="https://github.com/noob-hackers/kalimux"><img title="Kalimux" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=kalimux&theme=vision-friendly-dark"></a>
-<a href="https://github.com/noob-hackers/ipdrone"><img title="IPDrone" src="https://github-readme-stats.vercel.app/api/pin/?username=noob-hackers&repo=ipdrone&theme=highcontrast"></a> -->
+<p "grabcam ferramenta hacker camera"></p>
 </p>  
 
 ---
 
-### Linguagens Mais Usadas 📊  
 <p align="center">
-<a href="https://github.com/D1xgxS3c"><img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=chartreuse-dark"></a>
+### Linguagens Mais Usadas 📊  
+<a href="https://github.com/D1xgxS3c">
+  <img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1xgxS3c&layout=compact&theme=chartreuse-dark">
+</a>
 </p>  
 
-<p>
-<a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Compre-me um café" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<p align="center">
+<a href="https://www.buymeacoffee.com/gbraad" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Compre-me um café" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;">
+</a>
 </p>
 
+---
+
+<p align="center">
 ## "Hackear não é apenas invadir sistemas, é explorar possibilidades e transformar o impossível em realidade." 💻🚀  
+</p>

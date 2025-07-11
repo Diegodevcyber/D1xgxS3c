@@ -31,10 +31,10 @@
 
 ### Redes Sociais 🌐  
 <p align="center">
-<a href="https://rebrand.ly/D1xgxS3c"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/D1xgxS3c"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
-<a href="https://rebrand.ly/D1xgxS3c"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://chat.whatsapp.com/KzyTcK7ZN2C16p8sdS8pam"><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rebrand.ly/"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://rebrand.ly/"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href=""><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://rebrand.ly/D1xgxS3c"><img title="Instagram" src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
 </p>  
 

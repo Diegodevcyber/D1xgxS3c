@@ -24,7 +24,7 @@
 
 ### Estatísticas 🚀  
 <p align="center">
-<a href="https://github.com/d1xgxs3c"><img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api?username=D1xgxS3c&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<a href="https://github.com/Diegodevcyber"><img title="D1xgxS3c" src="https://github-readme-stats.vercel.app/api?username=D1xgxS3c&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>  
 
 ---

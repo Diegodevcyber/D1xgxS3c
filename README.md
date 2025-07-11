@@ -31,7 +31,7 @@
 
 ### Redes Sociais 🌐  
 <p align="center">
-<a href="https://rebrand.ly/"><img title="GitHub" src="https://img.shields.io/badge/D1xgxS3c-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/"><img title="GitHub" src="https://img.shields.io/badge/Diegodevcyber-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://rebrand.ly/"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
 <a href="https://rebrand.ly/"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
 <a href=""><img title="WhatsApp" src="https://img.shields.io/badge/WhatsApp-blue?style=for-the-badge&logo=whatsapp"></a>
